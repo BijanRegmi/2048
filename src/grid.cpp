@@ -20,7 +20,7 @@ grid::grid(){
     spawn_tile();
     spawn_tile();
 
-    /* View more tile*/
+    /* View more tile
     place_tile(0,0,2);
     place_tile(0,1,4);
     place_tile(0,2,8);
