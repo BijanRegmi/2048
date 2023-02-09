@@ -9,7 +9,7 @@ const int GRID_Y = 4;
 const float TILE_HEIGHT = 100.f;
 const float TILE_WIDTH = 100.f;
 
-const std::string TILE_FONT = "res/font.ttf";
+const std::string TILE_FONT = "assets/font.ttf";
 
 const int CHARACTER_SIZE = 0.9*std::min(TILE_HEIGHT, TILE_WIDTH);
 

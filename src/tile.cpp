@@ -74,7 +74,7 @@ void Tile::render_inner_objects(int v){
 void Tile::setValue(int val){
     this->val = val;
     std::stringstream ss;
-    ss << "res/" << val << ".jpg";
+    ss << "assets/nums/" << val << ".jpg";
     ss >> name;
 }
 
